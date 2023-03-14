@@ -16,8 +16,15 @@ The features of the app include adding items to a basket with live changes and t
 
 ## Images
 
-![Home](https://github.com/Zoulei1999/FYP/blob/main/Images/Home.png "Home")
+###### Homepage 
+![Home](https://github.com/Zoulei1999/FYP/blob/main/Images/Home.png)
+
+###### Basket
 ![Basket](https://github.com/Zoulei1999/FYP/blob/main/Images/Basket.png)
+
+###### Checkout
 ![Checkout](https://github.com/Zoulei1999/FYP/blob/main/Images/Checkout.png)
+
+###### Stripe Payment
 ![Stipe](https://github.com/Zoulei1999/FYP/blob/main/Images/Pay.png)
 
