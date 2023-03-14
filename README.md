@@ -15,6 +15,7 @@ The features of the app include adding items to a basket with live changes and t
 [CommerceJS](https://commercejs.com)
 
 ##Images
+
 ![Home](https://github.com/Zoulei1999/FYP/blob/main/Images/Home.png)
 ![Basket](https://github.com/Zoulei1999/FYP/blob/main/Images/Basket.png)
 ![Checkout](https://github.com/Zoulei1999/FYP/blob/main/Images/Checkout.png)
